@@ -1,6 +1,3 @@
--- https://gist.github.com/shadmansaleh/000871c9a608a012721c6acc6d7a19b9
--- stylua: ignore
-
 local colors = {
   bg = "#292a30",
   fg = "#dfdfe0",
