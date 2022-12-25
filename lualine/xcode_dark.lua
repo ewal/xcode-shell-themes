@@ -1,3 +1,5 @@
+-- Xcode dark
+
 local colors = {
   bg = "#292a30",
   fg = "#dfdfe0",

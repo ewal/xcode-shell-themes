@@ -1,3 +1,5 @@
+-- Xcode dark - high contrast
+
 local colors = {
   bg = "#1f1f24",
   fg = "#ffffff",
